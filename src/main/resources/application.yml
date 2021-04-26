@@ -1,0 +1,7 @@
+spring:
+  r2dbc:
+    url: r2dbc:pool:postgresql://81.70.32.227:5432/booz-nc?schema=booznc-group
+    username: postgres
+    password: Sigoo@@123
+    properties:
+      schema: booznc-group
